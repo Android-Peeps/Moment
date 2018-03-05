@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Moment</string>
+    <string name="app_name_debug">Moment(debug)</string>
+
+    <string name="picture_host">http://www.ssyer.com%s</string>
+    <string name="new_picture_url">http://www.ssyer.com/index_page_%d.html</string>
+    <string name="pic_category_url" formatted="false">http://ssyer.com/index_l_%d_page_%d.html</string>
+    <string name="author">Photo by %s</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="save_picture">Save Photo</string>
+    <string name="permission_required">Write permission is required for saving photo</string>
+    <string name="save_path_tips">Save photo to %s</string>
+    <string name="loading_text">Download&#8230;</string>
+    <string name="about">About Moment</string>
+    <string name="about_app">High-Resolution wallpaper app</string>
+    <string name="refresh_text">Refresh every %d hour</string>
+
+    <string name="source_code">
+        <![CDATA[
+            Source Code:<br>
+            &bull; <b><a href="https://github.com/Assassinss/Moment">Moment</a></b> by Assassinss<br>
+        ]]>
+    </string>
+
+    <string name="open_source_used">
+        <![CDATA[
+        Many thanks to these open source projects:<br>
+        &bull; <b><a href="https://github.com/romannurik/muzei">muzei</a></b> by romannurik<br>
+        &bull; <b><a href="http://square.github.io/okhttp/">OkHttp</a></b> by Square<br>
+        &bull; <b><a href="https://github.com/bumptech/glide">glide</a></b> by bumptech<br>
+        &bull; <b><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></b> by ReactiveX<br>
+        &bull; <b><a href="https://github.com/ReactiveX/RxJava">RxJava</a></b> by ReactiveX<br>
+        &bull; <b><a href="https://github.com/trello/RxLifecycle">RxLifecycle</a> by trello<br>
+        &bull; <b><a href="https://github.com/tbruyelle/RxPermissions">RxPermissions</a></b> by tbruyelle<br>
+        &bull; <b><a href="https://github.com/jhy/jsoup">jsoup</a></b> by jhy<br>
+    ]]>
+    </string>
+
+</resources>
